@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.051" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00223" contrast="0.66342" brightness="-0.12" red="true" green="true" blue="true"
+ src="KSGRS.000R.jpg" />
+<Contour name="domain1" hidden="true" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4079 0,
+	4079 4079,
+	0 4079,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="Calibrate_X" hidden="false" closed="false" simplified="true" border="1 0.502 0" fill="1 0.502 0" mode="11"
+ points="0.499281 5.09404,
+	5.18892 5.11538,
+	"/>
+<Contour name="Calibrate_X" hidden="false" closed="false" simplified="true" border="1 0.502 0" fill="1 0.502 0" mode="11"
+ points="2.3666 6.48653,
+	7.07224 6.4972,
+	"/>
+<Contour name="Calibrate_X" hidden="false" closed="false" simplified="true" border="1 0.502 0" fill="1 0.502 0" mode="11"
+ points="0.485943 2.35613,
+	5.19235 2.37519,
+	"/>
+<Contour name="Calibrate_X" hidden="false" closed="false" simplified="true" border="1 0.502 0" fill="1 0.502 0" mode="11"
+ points="0.965735 0.976272,
+	5.66231 1.00465,
+	"/>
+<Contour name="Calibrate_Y" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0.5 0 1" mode="11"
+ points="0.498247 8.7836,
+	0.49139 4.18216,
+	"/>
+<Contour name="Calibrate_Y" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0.5 0 1" mode="11"
+ points="0.957706 1.43912,
+	0.964564 6.01313,
+	"/>
+<Contour name="Calibrate_Y" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0.5 0 1" mode="11"
+ points="8.48478 8.33181,
+	8.45232 3.75603,
+	"/>
+<Contour name="Calibrate_Y" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0.5 0 1" mode="11"
+ points="6.13198 0.997574,
+	6.11575 5.58147,
+	"/>
+</Transform>
+
+</Section>

@@ -7,7 +7,7 @@
  ycoef=" 0 0 1 0 0 0">
 <Image mag="0.00223" contrast="1.13184" brightness="-0.135" red="true" green="true" blue="true"
  src="024____z23.0.tif" />
-<Contour name="domain1" hidden="true" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
 	8752 0,
 	8752 5074,
@@ -1996,7 +1996,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09spn46" hidden="true" closed="true" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+<Contour name="d09spn46" hidden="false" closed="true" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
  points="9.45049 4.65581,
 	9.46031 4.63336,
 	9.4645 4.62774,
@@ -2219,7 +2219,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09spn45" hidden="true" closed="true" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+<Contour name="d09spn45" hidden="false" closed="true" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
  points="9.99966 4.78075,
 	9.99282 4.78248,
 	9.96525 4.78635,

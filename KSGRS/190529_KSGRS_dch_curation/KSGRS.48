@@ -3963,7 +3963,7 @@
  ycoef=" 0 0 1 0 0 0">
 <Image mag="0.00223" contrast="1.10663" brightness="-0.15" red="true" green="true" blue="true"
  src="048____z47.0.tif" />
-<Contour name="domain1" hidden="true" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
 	8752 0,
 	8752 5074,

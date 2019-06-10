@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="66" viewport="7.81862 6.09518 0.0039982"
+<Series index="151" viewport="1.41231 4.33105 0.0027577"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -10,8 +10,8 @@
 	beepPaging="true"
 	hideTraces="false"
 	unhideTraces="false"
-	hideDomains="true"
-	unhideDomains="false"
+	hideDomains="false"
+	unhideDomains="true"
 	useAbsolutePaths="false"
 	defaultThickness="0.05"
 	zMidSection="false"
@@ -29,11 +29,11 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="1.000 0.000 0.000"
-	defaultFill="1.000 0.000 0.000"
-	defaultMode="-13"
-	defaultName="d19_zlen01_teamdentate"
-	defaultComment="ddh_traced_2018-4-04-10"
+	defaultBorder="1.000 1.000 0.502"
+	defaultFill="1.000 1.000 0.502"
+	defaultMode="11"
+	defaultName="d09"
+	defaultComment="dch_traced_062019"
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"
@@ -90,7 +90,7 @@
 		0.000 0.000 0.000,
 		"
 	offset3D="0 0 0"
-	type3Dobject="1"
+	type3Dobject="0"
 	first3Dsection="1"
 	last3Dsection="211"
 	max3Dconnection="-1"
@@ -119,7 +119,7 @@
 	ctrlIncrement="0.00439999 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
 	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
 	>
-<Contour name="d19_zlen04_teamdentate" comment="ddh_traced_2018-4-04-10" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="-13"
+<Contour name="d09" comment="dch_traced_062019" closed="true" border="1.000 1.000 0.502" fill="1.000 1.000 0.502" mode="11"
  points="6 -6,
 	0 -6,
 	0 -3,

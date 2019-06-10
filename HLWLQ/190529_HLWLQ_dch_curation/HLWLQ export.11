@@ -18,7 +18,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="D09" hidden="true" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="11"
+<Contour name="D09" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="11"
  points="14.4283 29.2856,
 	14.4183 29.285,
 	14.4084 29.2834,
@@ -77,7 +77,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="D05" hidden="true" closed="true" simplified="true" border="1 1 0" fill="1 1 0" mode="11"
+<Contour name="D05" hidden="false" closed="true" simplified="true" border="1 1 0" fill="1 1 0" mode="11"
  points="16.3382 26.4474,
 	16.3144 26.4449,
 	16.2922 26.4375,
@@ -107,7 +107,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="D21" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="D21" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="12.8248 29.4761,
 	12.7821 29.4706,
 	12.7435 29.4546,
@@ -133,7 +133,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="D29" hidden="true" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="11"
+<Contour name="D29" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="11"
  points="11.4163 26.5728,
 	11.3998 26.5725,
 	11.3837 26.5694,
@@ -172,7 +172,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="D11" hidden="true" closed="true" simplified="true" border="0 0 0" fill="0 0 0" mode="11"
+<Contour name="D11" hidden="false" closed="true" simplified="true" border="0 0 0" fill="0 0 0" mode="11"
  points="15.3274 24.288,
 	15.2949 24.2822,
 	15.2655 24.2654,
@@ -198,7 +198,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="D20" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="D20" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="15.2703 31.5884,
 	15.2538 31.5872,
 	15.2379 31.5827,
@@ -238,7 +238,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d29sp01" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d29sp01" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="11.0872 25.7703,
 	11.0741 25.7686,
 	11.0725 25.7686,
@@ -339,7 +339,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d05sp02" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d05sp02" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="15.9431 27.0388,
 	15.9393 27.0378,
 	15.9374 27.0374,
@@ -512,7 +512,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d29sp02" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d29sp02" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="10.0879 26.9245,
 	10.0661 26.9211,
 	10.0443 26.9191,
@@ -675,7 +675,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d05" hidden="true" closed="true" simplified="true" border="0 0 0" fill="0 0 0" mode="11"
+<Contour name="d05" hidden="false" closed="true" simplified="true" border="0 0 0" fill="0 0 0" mode="11"
  points="16.3297 26.8566,
 	16.3193 26.8554,
 	16.3142 26.8515,
@@ -950,7 +950,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d29c01" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+<Contour name="d29c01" hidden="false" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
  points="11.144 25.7584,
 	11.1393 25.7581,
 	11.1381 25.7581,
@@ -1025,7 +1025,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09sp05" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d09sp05" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="15.4841 30.2191,
 	15.4686 30.2162,
 	15.4531 30.2104,
@@ -1178,7 +1178,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20sp06" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d20sp06" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="15.7242 30.6065,
 	15.7198 30.6054,
 	15.7177 30.6043,
@@ -1390,7 +1390,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20c06" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+<Contour name="d20c06" hidden="false" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
  points="15.778 30.4028,
 	15.7685 30.4025,
 	15.7637 30.4022,
@@ -1520,7 +1520,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d11sp01" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d11sp01" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="14.1582 23.8659,
 	14.1516 23.8651,
 	14.1483 23.8642,
@@ -1697,7 +1697,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09sp03" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d09sp03" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="14.8638 29.122,
 	14.8626 29.1142,
 	14.8619 29.1064,
@@ -1905,7 +1905,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09" hidden="true" closed="true" simplified="true" border="0 0 0" fill="0 0 0" mode="11"
+<Contour name="d09" hidden="false" closed="true" simplified="true" border="1 1 0" fill="1 1 0" mode="11"
  points="14.2199 29.8809,
 	14.2119 29.8752,
 	14.2073 29.8717,
@@ -2164,7 +2164,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09p03" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d09p03" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="14.7421 29.1269,
 	14.7192 29.104,
 	14.7421 29.0811,
@@ -2175,7 +2175,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20sp02" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d20sp02" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="14.8517 32.0735,
 	14.8445 32.0731,
 	14.8408 32.0726,
@@ -2343,7 +2343,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20p02" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d20p02" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="15.0041 31.9718,
 	14.9897 31.9453,
 	15.0186 31.9453,
@@ -2353,7 +2353,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20sp03" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d20sp03" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="15.5594 31.2603,
 	15.5521 31.2436,
 	15.5484 31.2353,
@@ -2456,7 +2456,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20sp03" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d20sp03" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="15.6914 31.1031,
 	15.683 31.1026,
 	15.6788 31.101,
@@ -2615,7 +2615,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20c03" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+<Contour name="d20c03" hidden="false" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
  points="15.8132 30.922,
 	15.8071 30.9212,
 	15.8011 30.9189,
@@ -2677,7 +2677,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d29c02" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+<Contour name="d29c02" hidden="false" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
  points="9.95286 26.8965,
 	9.95091 26.896,
 	9.94897 26.895,
@@ -2786,7 +2786,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20p03" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d20p03" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="15.4773 31.2566,
 	15.4633 31.2425,
 	15.4773 31.2285,
@@ -2797,7 +2797,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d29cfa01" hidden="true" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d29cfa01" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="11.1224 25.6798,
 	11.124 25.6856,
 	11.1273 25.6983,
@@ -2811,7 +2811,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="mito01" hidden="true" closed="false" simplified="true" border="1 0 0" fill="0 1 0" mode="11"
+<Contour name="mito01" hidden="false" closed="false" simplified="true" border="1 0 0" fill="0 1 0" mode="11"
  points="10.7749 24.8683,
 	11.0606 24.9887,
 	"/>
@@ -2820,7 +2820,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20cfa06" hidden="true" closed="false" simplified="true" border="0 1 0" fill="1 0 0" mode="11"
+<Contour name="d20cfa06" hidden="false" closed="false" simplified="true" border="0 1 0" fill="1 0 0" mode="11"
  points="15.6699 30.3515,
 	15.6879 30.3532,
 	15.7098 30.3566,
@@ -2835,7 +2835,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20cfa03" hidden="true" closed="false" simplified="true" border="0 1 0" fill="1 0 0" mode="11"
+<Contour name="d20cfa03" hidden="false" closed="false" simplified="true" border="0 1 0" fill="1 0 0" mode="11"
  points="15.8259 30.9127,
 	15.8203 30.9056,
 	15.816 30.9006,
@@ -2848,7 +2848,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d29cfa02" hidden="true" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d29cfa02" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="9.95612 26.8043,
 	9.9566 26.807,
 	9.95878 26.814,
@@ -2921,7 +2921,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09sas01" hidden="true" closed="true" simplified="false" border="1 0 0" fill="0 1 0" mode="-11"
+<Contour name="d09sas01" hidden="false" closed="true" simplified="false" border="1 0 0" fill="0 1 0" mode="-11"
  points="14.449 29.0108,
 	14.449 28.9998,
 	14.46 28.9998,
@@ -2940,7 +2940,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="mito01_php2016" hidden="true" closed="false" simplified="true" border="1 0.501961 0.25098" fill="1 0 0" mode="11"
+<Contour name="mito01_php2016" hidden="false" closed="false" simplified="true" border="1 0.501961 0.25098" fill="1 0 0" mode="11"
  points="10.6641 25.197,
 	10.9173 25.3003,
 	"/>
@@ -2949,7 +2949,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d20_DELETE" hidden="true" closed="true" simplified="false" border="0 1 1" fill="0 1 1" mode="11"
+<Contour name="d20_DELETE" hidden="false" closed="true" simplified="false" border="0 1 1" fill="0 1 1" mode="11"
  points="15.6325 30.8082,
 	15.6441 30.7966,
 	15.5976 30.75,
@@ -2963,7 +2963,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d07ax11" comment="dch 03.2018" hidden="true" closed="true" simplified="true" border="0 0.909804 0.227451" fill="0 1 1" mode="11"
+<Contour name="d07ax11" comment="dch 03.2018" hidden="false" closed="true" simplified="true" border="0 0.909804 0.227451" fill="0 1 1" mode="11"
  points="19.0471 25.7525,
 	19.0541 25.734,
 	19.0772 25.6969,
@@ -3027,7 +3027,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d07ax11" comment="dch 03.2018" hidden="true" closed="true" simplified="true" border="0 0.909804 0.227451" fill="0 1 1" mode="11"
+<Contour name="d07ax11" comment="dch 03.2018" hidden="false" closed="true" simplified="true" border="0 0.909804 0.227451" fill="0 1 1" mode="11"
  points="19.7165 23.9206,
 	19.7214 23.8821,
 	19.7214 23.8725,
@@ -3165,7 +3165,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d07ax12" comment="dch 03.2018" hidden="true" closed="true" simplified="true" border="0 0.909804 0.227451" fill="0 1 1" mode="11"
+<Contour name="d07ax12" comment="dch 03.2018" hidden="false" closed="true" simplified="true" border="0 0.909804 0.227451" fill="0 1 1" mode="11"
  points="20.7607 30.7734,
 	20.768 30.7498,
 	20.768 30.7469,
@@ -3284,7 +3284,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d07ax13" comment="dch 03.2018" hidden="true" closed="true" simplified="true" border="0 0.909804 0.227451" fill="0 1 1" mode="11"
+<Contour name="d07ax13" comment="dch 03.2018" hidden="false" closed="true" simplified="true" border="0 0.909804 0.227451" fill="0 1 1" mode="11"
  points="18.6242 23.1645,
 	18.6257 23.1409,
 	18.6301 23.1173,
@@ -3342,7 +3342,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d07ax14" comment="dch 03.2018" hidden="true" closed="true" simplified="true" border="0 0.91 0.227" fill="0 1 1" mode="11"
+<Contour name="d07ax14" comment="dch 03.2018" hidden="false" closed="true" simplified="true" border="0 0.91 0.227" fill="0 1 1" mode="11"
  points="16.7266 25.2332,
 	16.7403 25.1893,
 	16.7526 25.1674,
@@ -3400,7 +3400,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d07ax18" comment="dch 04.2018" hidden="true" closed="true" simplified="true" border="0 0.91 0.227" fill="0 1 1" mode="11"
+<Contour name="d07ax18" comment="dch 04.2018" hidden="false" closed="true" simplified="true" border="0 0.91 0.227" fill="0 1 1" mode="11"
  points="15.7217 28.8307,
 	15.7274 28.8004,
 	15.7349 28.7853,
@@ -3879,6 +3879,123 @@
 	13.3705 28.9717,
 	13.3705 28.9597,
 	13.3705 28.9582,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d20_TeamDentate_Shaft" comment="dch_traced_06.2019" hidden="false" closed="true" simplified="true" border="1 1 0" fill="1 1 0" mode="11"
+ points="14.8471 31.6041,
+	14.8509 31.5639,
+	14.8584 31.5237,
+	14.8672 31.5035,
+	14.8722 31.4935,
+	14.8773 31.4734,
+	14.8848 31.4532,
+	14.8974 31.4331,
+	14.9049 31.4231,
+	14.91 31.413,
+	14.9414 31.374,
+	14.9565 31.3539,
+	14.9628 31.3438,
+	14.9716 31.3338,
+	14.9741 31.3288,
+	14.9829 31.3187,
+	14.9929 31.2986,
+	15.0068 31.2797,
+	15.0256 31.2609,
+	15.0458 31.247,
+	15.0558 31.2395,
+	15.0608 31.2357,
+	15.1011 31.2219,
+	15.1111 31.2194,
+	15.1162 31.2169,
+	15.1564 31.2093,
+	15.2369 31.2005,
+	15.2771 31.1955,
+	15.2972 31.1942,
+	15.3173 31.1904,
+	15.3375 31.1829,
+	15.3576 31.1791,
+	15.3676 31.1766,
+	15.4079 31.1741,
+	15.4481 31.1741,
+	15.4682 31.1766,
+	15.4783 31.1766,
+	15.4883 31.1791,
+	15.5085 31.1892,
+	15.5273 31.203,
+	15.5412 31.2231,
+	15.5474 31.2332,
+	15.5588 31.2734,
+	15.565 31.3137,
+	15.565 31.3338,
+	15.5613 31.3539,
+	15.5399 31.3941,
+	15.5286 31.4344,
+	15.5148 31.4746,
+	15.511 31.4847,
+	15.511 31.4897,
+	15.5085 31.4947,
+	15.4997 31.535,
+	15.4858 31.5752,
+	15.4619 31.6154,
+	15.4557 31.6255,
+	15.4531 31.6305,
+	15.4481 31.6356,
+	15.4456 31.6406,
+	15.4116 31.6796,
+	15.4066 31.6833,
+	15.4003 31.6934,
+	15.3827 31.7135,
+	15.3739 31.7236,
+	15.3475 31.7626,
+	15.3161 31.8028,
+	15.267 31.8833,
+	15.2658 31.8883,
+	15.2507 31.9084,
+	15.2243 31.9486,
+	15.2092 31.965,
+	15.1916 31.9851,
+	15.1727 32.0015,
+	15.1677 32.0065,
+	15.1627 32.009,
+	15.1225 32.0404,
+	15.0822 32.0681,
+	15.0621 32.0794,
+	15.052 32.0832,
+	15.042 32.0844,
+	15.0219 32.0832,
+	15.0017 32.0782,
+	14.9917 32.0769,
+	14.9816 32.0719,
+	14.9615 32.0555,
+	14.9527 32.0455,
+	14.9288 32.0052,
+	14.9225 31.9851,
+	14.9188 31.9751,
+	14.91 31.9348,
+	14.9074 31.9147,
+	14.9074 31.8946,
+	14.91 31.8745,
+	14.915 31.8543,
+	14.9137 31.8342,
+	14.9087 31.8141,
+	14.9037 31.804,
+	14.9012 31.794,
+	14.8924 31.7739,
+	14.8898 31.7638,
+	14.881 31.7437,
+	14.876 31.7236,
+	14.8722 31.7135,
+	14.8609 31.6934,
+	14.8571 31.6833,
+	14.8496 31.6431,
+	14.8471 31.633,
+	14.8471 31.6129,
+	14.8471 31.6079,
+	14.8471 31.6054,
 	"/>
 </Transform>
 

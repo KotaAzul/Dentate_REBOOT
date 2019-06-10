@@ -7,7 +7,7 @@
  ycoef=" 0 0 1 0 0 0">
 <Image mag="0.00223" contrast="1.13467" brightness="-0.15" red="true" green="true" blue="true"
  src="021____z20.0.tif" />
-<Contour name="domain1" hidden="true" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
 	8752 0,
 	8752 5074,
@@ -1681,7 +1681,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09shaft" hidden="true" closed="true" simplified="true" border="1 0.501961 0.25098" fill="1 1 0" mode="11"
+<Contour name="d09shaft" hidden="false" closed="true" simplified="true" border="1 0.501961 0.25098" fill="1 1 0" mode="11"
  points="10.5968 3.58885,
 	10.6038 3.56143,
 	10.6054 3.50658,
@@ -1815,7 +1815,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09spn46" hidden="true" closed="true" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+<Contour name="d09spn46" hidden="false" closed="true" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
  points="9.54167 4.68386,
 	9.54868 4.67264,
 	9.55148 4.66703,
@@ -1847,7 +1847,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09shaft" hidden="true" closed="true" simplified="true" border="1 0.501961 0.25098" fill="1 1 0" mode="11"
+<Contour name="d09shaft" hidden="false" closed="true" simplified="true" border="1 0.501961 0.25098" fill="1 1 0" mode="11"
  points="9.8024 4.67694,
 	9.81745 4.62181,
 	9.82097 4.60802,
@@ -2048,7 +2048,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09sph45" hidden="true" closed="true" simplified="true" border="0.501961 1 1" fill="1 1 0" mode="11"
+<Contour name="d09sph45" hidden="false" closed="true" simplified="true" border="0.501961 1 1" fill="1 1 0" mode="11"
  points="9.46541 5.10794,
 	9.49149 5.0504,
 	9.51127 5.02162,
@@ -2143,7 +2143,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09spn45" hidden="true" closed="true" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+<Contour name="d09spn45" hidden="false" closed="true" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
  points="9.5994 4.89123,
 	9.71451 4.78601,
 	9.76937 4.72935,

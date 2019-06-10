@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="131" viewport="14.7315 28.4768 0.00221155"
+<Series index="199" viewport="14.5069 29.7042 0.00141294"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -9,7 +9,7 @@
 	beepDeleting="true"
 	beepPaging="true"
 	hideTraces="false"
-	unhideTraces="false"
+	unhideTraces="true"
 	hideDomains="false"
 	unhideDomains="false"
 	useAbsolutePaths="false"
@@ -29,11 +29,11 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="1.000 0.000 1.000"
-	defaultFill="1.000 0.000 1.000"
+	defaultBorder="1.000 1.000 0.000"
+	defaultFill="1.000 1.000 0.000"
 	defaultMode="11"
-	defaultName="d07ax21_curation"
-	defaultComment=""
+	defaultName="d20_TeamDentate_Shaft"
+	defaultComment="dch_traced_06.2019"
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"
@@ -90,7 +90,7 @@
 		0.000 0.000 0.000,
 		"
 	offset3D="0 0 0"
-	type3Dobject="1"
+	type3Dobject="0"
 	first3Dsection="0"
 	last3Dsection="300"
 	max3Dconnection="0"
@@ -119,7 +119,7 @@
 	ctrlIncrement="0.0044 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
 	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
 	>
-<Contour name="d07ax21_curation" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="11"
+<Contour name="d20_TeamDentate_Shaft" comment="dch_traced_06.2019" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="11"
  points="6 -6,
 	0 -6,
 	0 -3,

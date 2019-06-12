@@ -1,0 +1,511 @@
+<?xml version="1.0"?>
+<!DOCTYPE Series SYSTEM "series.dtd">
+
+<Series index="48" viewport="9.97414 26.626 0.00437495"
+	units="microns"
+	autoSaveSeries="true"
+	autoSaveSection="true"
+	warnSaveSection="true"
+	beepDeleting="true"
+	beepPaging="true"
+	hideTraces="false"
+	unhideTraces="true"
+	hideDomains="false"
+	unhideDomains="false"
+	useAbsolutePaths="false"
+	defaultThickness="0.05"
+	zMidSection="false"
+	thumbWidth="128"
+	thumbHeight="96"
+	fitThumbSections="false"
+	firstThumbSection="1"
+	lastThumbSection="2147483647"
+	skipSections="1"
+	displayThumbContours="true"
+	useFlipbookStyle="false"
+	flipRate="5"
+	useProxies="true"
+	widthUseProxies="2048"
+	heightUseProxies="1536"
+	scaleProxies="0.25"
+	significantDigits="6"
+	defaultBorder="0.000 1.000 1.000"
+	defaultFill="0.000 1.000 1.000"
+	defaultMode="11"
+	defaultName="d20sah05_trace"
+	defaultComment="ddh_traced_06.2019"
+	listSectionThickness="true"
+	listDomainSource="true"
+	listDomainPixelsize="true"
+	listDomainLength="false"
+	listDomainArea="false"
+	listDomainMidpoint="false"
+	listTraceComment="true"
+	listTraceLength="true"
+	listTraceArea="true"
+	listTraceCentroid="false"
+	listTraceExtent="false"
+	listTraceZ="false"
+	listTraceThickness="false"
+	listObjectRange="true"
+	listObjectCount="true"
+	listObjectSurfarea="true"
+	listObjectFlatarea="true"
+	listObjectVolume="true"
+	listZTraceNote="true"
+	listZTraceRange="true"
+	listZTraceLength="true"
+	borderColors="0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		"
+	fillColors="0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		"
+	offset3D="0 0 0"
+	type3Dobject="0"
+	first3Dsection="0"
+	last3Dsection="300"
+	max3Dconnection="0"
+	upper3Dfaces="true"
+	lower3Dfaces="true"
+	faceNormals="false"
+	vertexNormals="true"
+	facets3D="4"
+	dim3D="-1 -1 -1"
+	gridType="0"
+	gridSize="1 1"
+	gridDistance="1 1"
+	gridNumber="1 1"
+	hueStopWhen="0"
+	hueStopValue="0"
+	satStopWhen="0"
+	satStopValue="0"
+	brightStopWhen="0"
+	brightStopValue="0"
+	tracesStopWhen="false"
+	areaStopPercent="0"
+	areaStopSize="0"
+	ContourMaskWidth="0"
+	smoothingLength="1"
+	mvmtIncrement="0.022 1 1 1.01 1.01 0.02 0.02 0.001 0.001"
+	ctrlIncrement="0.0044 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
+	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
+	>
+<Contour name="d20_TeamDentate_Shaft" comment="dch_traced_06.2019" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="11"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
+	"/>
+<Contour name="d07_curationstamp_ax11" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="-13"
+ points="-2 1,
+	-5 0,
+	-2 -1,
+	-4 -4,
+	-1 -2,
+	0 -5,
+	1 -2,
+	4 -4,
+	2 -1,
+	5 0,
+	2 1,
+	4 4,
+	1 2,
+	0 5,
+	-1 2,
+	-4 4,
+	"/>
+<Contour name="d61p39" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-6 -6,
+	6 -6,
+	0 5,
+	"/>
+<Contour name="d20_INC" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-7 7,
+	-2 0,
+	-7 -7,
+	-4 -7,
+	0 -1,
+	4 -7,
+	7 -7,
+	2 0,
+	7 7,
+	4 7,
+	0 1,
+	-4 7,
+	"/>
+<Contour name="d27san07" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-11"
+ points="8 8,
+	8 -8,
+	-8 -8,
+	-8 6,
+	-10 8,
+	-10 -10,
+	10 -10,
+	10 10,
+	-10 10,
+	-8 8,
+	"/>
+<Contour name="d20_Interest03SERorEndo" closed="true" border="0.000 0.000 0.000" fill="0.000 0.000 1.000" mode="11"
+ points="0 7,
+	-7 0,
+	0 -7,
+	7 0,
+	"/>
+<Contour name="d20rn24" closed="true" border="0.000 0.000 1.000" fill="1.000 0.000 1.000" mode="11"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="d20endoh28_te" closed="true" border="1.000 0.502 0.000" fill="1.000 0.000 0.000" mode="11"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
+	"/>
+<Contour name="d20san05" closed="true" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="-11"
+ points="-12 4,
+	-12 -4,
+	-4 -4,
+	-4 -12,
+	4 -12,
+	4 -4,
+	12 -4,
+	12 4,
+	4 4,
+	4 12,
+	-4 12,
+	-4 4,
+	"/>
+<Contour name="d07ax30" comment="dch 04.2018" closed="true" border="0.000 0.910 0.227" fill="0.000 1.000 1.000" mode="11"
+ points="0 12,
+	4 8,
+	-12 -8,
+	-8 -12,
+	8 4,
+	12 0,
+	12 12,
+	"/>
+<Contour name="d20sah05_trace" comment="ddh_traced_06.2019" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="11"
+ points="-3 1,
+	-3 -1,
+	-1 -3,
+	1 -3,
+	3 -1,
+	3 1,
+	1 3,
+	-1 3,
+	"/>
+<Contour name="d20c15" closed="true" border="0.000 0.000 1.000" fill="0.500 0.000 1.000" mode="11"
+ points="-2 1,
+	-5 0,
+	-2 -1,
+	-4 -4,
+	-1 -2,
+	0 -5,
+	1 -2,
+	4 -4,
+	2 -1,
+	5 0,
+	2 1,
+	4 4,
+	1 2,
+	0 5,
+	-1 2,
+	-4 4,
+	"/>
+<Contour name="pink$+" closed="true" border="1.000 0.000 0.500" fill="1.000 0.000 0.500" mode="-13"
+ points="-6 -6,
+	6 -6,
+	0 5,
+	"/>
+<Contour name="X$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-7 7,
+	-2 0,
+	-7 -7,
+	-4 -7,
+	0 -1,
+	4 -7,
+	7 -7,
+	2 0,
+	7 7,
+	4 7,
+	0 1,
+	-4 7,
+	"/>
+<Contour name="yellow$+" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="8 8,
+	8 -8,
+	-8 -8,
+	-8 6,
+	-10 8,
+	-10 -10,
+	10 -10,
+	10 10,
+	-10 10,
+	-8 8,
+	"/>
+<Contour name="d25serh28" closed="true" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="0 7,
+	-7 0,
+	0 -7,
+	7 0,
+	"/>
+<Contour name="magenta$+" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="9"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="red$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
+	"/>
+<Contour name="DELETE_02" closed="true" border="1.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="-12 4,
+	-12 -4,
+	-4 -4,
+	-4 -12,
+	4 -12,
+	4 -4,
+	12 -4,
+	12 4,
+	4 4,
+	4 12,
+	-4 12,
+	-4 4,
+	"/>
+<Contour name="DELETE_01" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="9"
+ points="0 12,
+	4 8,
+	-12 -8,
+	-8 -12,
+	8 4,
+	12 0,
+	12 12,
+	"/>
+<ZContour name="d05zlen01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="15.4247 28.0052 181,
+	15.4247 28.0052 123,
+	15.7448 27.9448 88,
+	15.9596 27.3964 63,
+	16.0559 26.8996 47,
+	16.3535 26.3871 18,
+	"/>
+<ZContour name="d05zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="16.3424 26.4923 18,
+	16.3222 26.5213 21,
+	16.1409 27.0249 46,
+	15.9619 27.5285 63,
+	15.606 27.9358 112,
+	15.4046 27.9269 181,
+	"/>
+<ZContour name="d09zlen01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="14.4177 27.2856 189,
+	14.3848 27.3754 165,
+	14.2501 27.7704 149,
+	14.2172 28.2971 125,
+	14.2831 28.7341 104,
+	14.4536 29.174 10,
+	"/>
+<ZContour name="d09zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="14.4207 29.2578 10,
+	14.4147 29.2429 33,
+	14.2471 28.9256 78,
+	14.1933 28.5725 115,
+	14.2591 27.944 149,
+	14.4177 27.2586 189,
+	"/>
+<ZContour name="d11zlen01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="16.0242 24.6608 201,
+	16.0242 24.6608 177,
+	15.6167 24.627 86,
+	15.3461 24.4004 55,
+	15.2091 24.0994 12,
+	"/>
+<ZContour name="d11zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="15.3292 24.233 12,
+	15.3292 24.233 33,
+	15.6623 24.4833 82,
+	16.0462 24.6845 201,
+	"/>
+<ZContour name="d20zlen01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="15.8137 30.698 198,
+	15.8153 30.698 165,
+	15.5137 31.0527 140,
+	15.1624 31.4371 10,
+	"/>
+<ZContour name="d20zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="15.3497 31.4537 10,
+	15.3497 31.4537 16,
+	15.5552 31.0146 142,
+	15.7756 30.4859 198,
+	"/>
+<ZContour name="d29zlen01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="14.014 25.9451 192,
+	14.014 25.9451 174,
+	13.6776 26.2787 146,
+	13.2467 26.376 118,
+	12.802 26.4788 97,
+	12.3182 26.7207 78,
+	11.8123 26.6901 34,
+	11.6566 26.5094 28,
+	11.2229 26.3509 2,
+	"/>
+<ZContour name="d29zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="11.2869 26.3926 2,
+	11.2869 26.3926 3,
+	11.551 26.5678 19,
+	11.8679 26.8541 52,
+	12.2209 26.7235 78,
+	12.7102 26.5177 93,
+	13.1522 26.4121 117,
+	13.622 26.1341 157,
+	14.0085 25.8311 192,
+	"/>
+<ZContour name="d07zlen01" closed="false" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="18.1905 27.7859 194,
+	18.0454 27.7595 178,
+	17.6033 27.5121 132,
+	17.2899 27.6407 66,
+	16.7686 27.258 18,
+	"/>
+<ZContour name="d07zlen02" closed="false" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-11"
+ points="16.7686 27.258 18,
+	17.0325 27.5417 45,
+	17.5505 27.5582 129,
+	17.8243 27.6968 157,
+	18.1872 27.7859 194,
+	"/>
+<ZContour name="d09_TeamDentate_zlen1" comment="dch_traced_04.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="11"
+ points="14.2403 27.7936 149,
+	14.1922 28.2659 124,
+	14.2403 28.7893 105,
+	14.3396 29.2194 38,
+	"/>
+<ZContour name="d09_TeamDentate_zlen2" comment="dch_traced_04.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="11"
+ points="14.3505 29.1761 38,
+	14.2345 28.7895 106,
+	14.1899 28.3018 124,
+	14.2345 27.82 149,
+	"/>
+<ZContour name="d09_TeamDentate_zlen3" comment="dch_traced_04.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="11"
+ points="14.2405 27.7873 149,
+	14.2286 28.1085 131,
+	14.2048 28.6467 110,
+	14.3118 29.1939 38,
+	"/>
+<ZContour name="d09_TeamDentate_zlen4" comment="dch_traced_04.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="-11"
+ points="14.3356 29.1909 38,
+	14.2464 28.7895 104,
+	14.181 28.2988 124,
+	14.2435 27.8022 149,
+	"/>
+<ZContour name="d11_TeamDentate_zlen1" comment="dch_traced_05.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="11"
+ points="16.0378 24.5472 166,
+	15.7639 24.6775 93,
+	15.407 24.4643 61,
+	15.2501 24.1385 28,
+	"/>
+<ZContour name="d11_TeamDentate_zlen2" comment="dch_traced_05.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="11"
+ points="15.296 24.1311 28,
+	15.296 24.1326 31,
+	15.5566 24.5058 74,
+	16.0289 24.5754 166,
+	"/>
+<ZContour name="d11_TeamDentate_zlen3" comment="dch_traced_05.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="11"
+ points="16.0304 24.5635 166,
+	15.7594 24.6435 93,
+	15.4144 24.4643 61,
+	15.2856 24.1134 28,
+	"/>
+<ZContour name="d11_TeamDentate_zlen4" comment="dch_traced_05.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="-11"
+ points="15.2797 24.1104 28,
+	15.2797 24.1104 29,
+	15.5225 24.4539 73,
+	16.0201 24.5531 166,
+	"/>
+<ZContour name="d20_TeamDentate_zlen1" comment="dch_traced_05.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="11"
+ points="15.7363 30.7735 157,
+	15.6923 30.783 151,
+	15.3609 31.1772 40,
+	"/>
+<ZContour name="d20_TeamDentate_zlen2" comment="dch_traced_05.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="11"
+ points="15.3797 31.1945 40,
+	15.3075 31.1709 118,
+	15.7331 30.8097 157,
+	"/>
+<ZContour name="d20_TeamDentate_zlen3" comment="dch_traced_05.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="11"
+ points="15.7583 30.7578 157,
+	15.7378 30.7233 152,
+	15.3939 31.1819 40,
+	"/>
+<ZContour name="d20_TeamDentate_zlen4" comment="dch_traced_05.2017" closed="false" border="0.000 0.000 0.000" fill="0.000 0.000 0.000" mode="-11"
+ points="15.386 31.174 40,
+	15.3216 31.1536 118,
+	15.7253 30.7877 157,
+	"/>
+</Series>

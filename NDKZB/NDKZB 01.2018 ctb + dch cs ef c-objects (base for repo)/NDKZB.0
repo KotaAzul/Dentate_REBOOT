@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.0452003" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.002094" contrast="0.650901" brightness="-0.315" red="true" green="true" blue="true"
+ src="001____z0.0.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	13099 0,
+	13099 7874,
+	0 7874,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="cal_vertical_1" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="2.74714 9.65655,
+	2.75606 5.03483,
+	"/>
+<Contour name="cal_vertical_2" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="4.62081 9.64316,
+	4.64312 5.03483,
+	"/>
+<Contour name="cal_vertical_3" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="5.10262 5.03037,
+	5.11154 9.64317,
+	"/>
+<Contour name="cal_vertical_4" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="5.56211 9.65209,
+	5.56211 5.03037,
+	"/>
+<Contour name="cal_vertical_5" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="1.82852 9.63901,
+	1.83434 5.04033,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="cal_vertical_6" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="11.1161 12.0119,
+	11.1452 7.38229,
+	"/>
+<Contour name="cal_vertical_7" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="11.6402 12.0022,
+	11.6402 7.4017,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="cal_horizontal_1" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="9.75266 7.39911,
+	14.3953 7.42132,
+	"/>
+<Contour name="cal_horizontal_2" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="14.4064 6.04407,
+	9.74155 6.03296,
+	"/>
+<Contour name="cal_horizontal_3" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="9.73784 5.56733,
+	14.4062 5.55762,
+	"/>
+<Contour name="cal_vertical_8" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="10.2061 12.007,
+	10.2113 7.38085,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="cal_horizontal_1" hidden="false" closed="false" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="13"
+ points="13.4548 11.0986,
+	18.1377 11.1092,
+	"/>
+<Contour name="cal_horizontal_2" hidden="false" closed="false" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="13"
+ points="13.4867 10.6409,
+	18.1377 10.6303,
+	"/>
+<Contour name="cal_horizontal_3" hidden="false" closed="false" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="13"
+ points="18.127 10.1833,
+	13.4867 10.1726,
+	"/>
+<Contour name="cal_horizontal_4" hidden="false" closed="false" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="13"
+ points="13.4761 12.4821,
+	18.1483 12.4715,
+	"/>
+<Contour name="cal_horizontal_5" hidden="false" closed="false" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="13"
+ points="18.1483 12.9611,
+	13.4761 12.9291,
+	"/>
+</Transform>
+
+</Section>

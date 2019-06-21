@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.051" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.002243" contrast="1.14434" brightness="-0.15" red="true" green="true" blue="true"
+ src="001____z0.0.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	9337 0,
+	9337 5471,
+	0 5471,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="Calibrate 1" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="2.74375 8.98617,
+	7.46375 8.94342,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="Calibrate 2" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="2.74375 8.52443,
+	7.4552 8.47313,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="Calibrate 3" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="7.4381 8.01993,
+	2.74375 8.0798,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="Calibrate 4" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="2.73306 7.61662,
+	2.68853 3.04734,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="Calibrate 5" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="3.21107 7.60815,
+	3.15805 3.03801,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="Calibrate 6" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="3.63521 3.038,
+	3.66703 7.60817,
+	"/>
+</Transform>
+
+</Section>

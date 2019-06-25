@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="123" viewport="7.71619 9.82399 0.00324018"
+<Series index="198" viewport="9.77332 11.9079 0.00152128"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,11 +29,11 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="0.000 1.000 1.000"
-	defaultFill="0.000 1.000 1.000"
-	defaultMode="9"
-	defaultName="d37_DELETE"
-	defaultComment=""
+	defaultBorder="1.000 1.000 0.000"
+	defaultFill="1.000 1.000 0.000"
+	defaultMode="11"
+	defaultName="d37"
+	defaultComment="dch_traced_06.2019"
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"
@@ -90,9 +90,9 @@
 		0.000 0.000 0.000,
 		"
 	offset3D="0 0 0"
-	type3Dobject="1"
+	type3Dobject="0"
 	first3Dsection="0"
-	last3Dsection="200"
+	last3Dsection="100"
 	max3Dconnection="0"
 	upper3Dfaces="true"
 	lower3Dfaces="true"
@@ -119,7 +119,7 @@
 	ctrlIncrement="0.0044 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
 	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
 	>
-<Contour name="mito11_php2016" closed="true" border="1.000 0.502 0.000" fill="1.000 0.000 0.000" mode="11"
+<Contour name="d37" comment="dch_traced_06.2019" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="11"
  points="6 -6,
 	0 -6,
 	0 -3,

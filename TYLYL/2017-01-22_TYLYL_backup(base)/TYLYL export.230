@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="230" thickness="0.047" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.002066" contrast="1.14434" brightness="-0.15" red="true" green="true" blue="true"
+ src="231____z11.359.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	17608 0,
+	17608 16967,
+	0 16967,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibrate_vertical_1" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="8.41398 23.1743,
+	8.43809 18.4889,
+	"/>
+<Contour name="calibrate_vertical_2" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="8.87478 23.1652,
+	8.91204 18.4922,
+	"/>
+<Contour name="calibrate_vertical_3" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="9.35911 18.4975,
+	9.32718 23.1705,
+	"/>
+<Contour name="calibrate_vertical_4" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="9.77958 23.1599,
+	9.82748 18.4975,
+	"/>
+<Contour name="calibrate_vertical_5" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="10.2746 18.5082,
+	10.2533 23.1545,
+	"/>
+<Contour name="calibrate_horizontal_1" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="16.2332 25.5112,
+	20.8215 25.5338,
+	"/>
+<Contour name="calibrate_horizontal_2" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="20.8064 24.1122,
+	16.2558 24.0971,
+	"/>
+<Contour name="calibrate_horizontal_3" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="16.2407 23.6082,
+	20.829 23.6308,
+	"/>
+<Contour name="calibrate_horizontal_4" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="20.829 23.1945,
+	16.2633 23.1644,
+	"/>
+<Contour name="calibrate_horizontal_5" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
+ points="16.2332 22.7131,
+	20.8365 22.7207,
+	"/>
+</Transform>
+
+</Section>

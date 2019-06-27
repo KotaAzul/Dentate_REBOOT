@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<!DOCTYPE Series SYSTEM "series.dtd">
+
+<Series index="7" viewport="9.44485 27.1027 0.00319406"
+	units="microns"
+	autoSaveSeries="true"
+	autoSaveSection="true"
+	warnSaveSection="true"
+	beepDeleting="true"
+	beepPaging="true"
+	hideTraces="false"
+	unhideTraces="false"
+	hideDomains="false"
+	unhideDomains="false"
+	useAbsolutePaths="false"
+	defaultThickness="0.05"
+	zMidSection="false"
+	thumbWidth="128"
+	thumbHeight="96"
+	fitThumbSections="false"
+	firstThumbSection="1"
+	lastThumbSection="2147483647"
+	skipSections="1"
+	displayThumbContours="true"
+	useFlipbookStyle="false"
+	flipRate="5"
+	useProxies="true"
+	widthUseProxies="2048"
+	heightUseProxies="1536"
+	scaleProxies="0.25"
+	significantDigits="6"
+	defaultBorder="1.000 0.502 0.251"
+	defaultFill="1.000 0.000 0.000"
+	defaultMode="11"
+	defaultName="mito11_php2016"
+	defaultComment=""
+	listSectionThickness="true"
+	listDomainSource="true"
+	listDomainPixelsize="true"
+	listDomainLength="false"
+	listDomainArea="false"
+	listDomainMidpoint="false"
+	listTraceComment="false"
+	listTraceLength="true"
+	listTraceArea="false"
+	listTraceCentroid="false"
+	listTraceExtent="false"
+	listTraceZ="false"
+	listTraceThickness="false"
+	listObjectRange="true"
+	listObjectCount="true"
+	listObjectSurfarea="true"
+	listObjectFlatarea="true"
+	listObjectVolume="true"
+	listZTraceNote="true"
+	listZTraceRange="true"
+	listZTraceLength="true"
+	borderColors="0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		"
+	fillColors="0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		"
+	offset3D="0 0 0"
+	type3Dobject="1"
+	first3Dsection="0"
+	last3Dsection="600"
+	max3Dconnection="0"
+	upper3Dfaces="true"
+	lower3Dfaces="true"
+	faceNormals="false"
+	vertexNormals="true"
+	facets3D="8"
+	dim3D="-1 -1 -1"
+	gridType="0"
+	gridSize="1 1"
+	gridDistance="1 1"
+	gridNumber="1 1"
+	hueStopWhen="0"
+	hueStopValue="0"
+	satStopWhen="0"
+	satStopValue="0"
+	brightStopWhen="0"
+	brightStopValue="0"
+	tracesStopWhen="false"
+	areaStopPercent="0"
+	areaStopSize="0"
+	ContourMaskWidth="0"
+	smoothingLength="0"
+	mvmtIncrement="0.022 1 1 1.01 1.01 0.02 0.02 0.001 0.001"
+	ctrlIncrement="0.0044 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
+	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
+	>
+<Contour name="mito11_php2016" closed="true" border="1.000 0.502 0.251" fill="1.000 0.000 0.000" mode="11"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
+	"/>
+<Contour name="b$+" closed="true" border="0.500 0.000 1.000" fill="0.500 0.000 1.000" mode="13"
+ points="-2 1,
+	-5 0,
+	-2 -1,
+	-4 -4,
+	-1 -2,
+	0 -5,
+	1 -2,
+	4 -4,
+	2 -1,
+	5 0,
+	2 1,
+	4 4,
+	1 2,
+	0 5,
+	-1 2,
+	-4 4,
+	"/>
+<Contour name="pink$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-6 -6,
+	6 -6,
+	0 5,
+	"/>
+<Contour name="d63_INC" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-7 7,
+	-2 0,
+	-7 -7,
+	-4 -7,
+	0 -1,
+	4 -7,
+	7 -7,
+	2 0,
+	7 7,
+	4 7,
+	0 1,
+	-4 7,
+	"/>
+<Contour name="d27san07" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-11"
+ points="8 8,
+	8 -8,
+	-8 -8,
+	-8 6,
+	-10 8,
+	-10 -10,
+	10 -10,
+	10 10,
+	-10 10,
+	-8 8,
+	"/>
+<Contour name="d63_Interest_01possiblePR" closed="true" border="0.000 0.000 0.000" fill="0.000 0.000 1.000" mode="11"
+ points="0 7,
+	-7 0,
+	0 -7,
+	7 0,
+	"/>
+<Contour name="d63rh36" closed="true" border="0.000 0.000 1.000" fill="1.000 0.000 1.000" mode="11"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="d63endon24_te" closed="true" border="1.000 0.502 0.000" fill="1.000 0.000 0.000" mode="11"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
+	"/>
+<Contour name="d63sah25" closed="true" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="-11"
+ points="-12 4,
+	-12 -4,
+	-4 -4,
+	-4 -12,
+	4 -12,
+	4 -4,
+	12 -4,
+	12 4,
+	4 4,
+	4 12,
+	-4 12,
+	-4 4,
+	"/>
+<Contour name="d52_DELETE" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="9"
+ points="0 12,
+	4 8,
+	-12 -8,
+	-8 -12,
+	8 4,
+	12 0,
+	12 12,
+	"/>
+<Contour name="d63cfa07b" closed="true" border="0.000 1.000 0.000" fill="1.000 0.500 0.000" mode="11"
+ points="-3 1,
+	-3 -1,
+	-1 -3,
+	1 -3,
+	3 -1,
+	3 1,
+	1 3,
+	-1 3,
+	"/>
+<Contour name="d63c07b" closed="true" border="0.000 0.000 1.000" fill="0.500 0.000 1.000" mode="11"
+ points="-2 1,
+	-5 0,
+	-2 -1,
+	-4 -4,
+	-1 -2,
+	0 -5,
+	1 -2,
+	4 -4,
+	2 -1,
+	5 0,
+	2 1,
+	4 4,
+	1 2,
+	0 5,
+	-1 2,
+	-4 4,
+	"/>
+<Contour name="pink$+" closed="true" border="1.000 0.000 0.500" fill="1.000 0.000 0.500" mode="-13"
+ points="-6 -6,
+	6 -6,
+	0 5,
+	"/>
+<Contour name="X$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-7 7,
+	-2 0,
+	-7 -7,
+	-4 -7,
+	0 -1,
+	4 -7,
+	7 -7,
+	2 0,
+	7 7,
+	4 7,
+	0 1,
+	-4 7,
+	"/>
+<Contour name="yellow$+" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="8 8,
+	8 -8,
+	-8 -8,
+	-8 6,
+	-10 8,
+	-10 -10,
+	10 -10,
+	10 10,
+	-10 10,
+	-8 8,
+	"/>
+<Contour name="d25serh28" closed="true" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="9"
+ points="0 7,
+	-7 0,
+	0 -7,
+	7 0,
+	"/>
+<Contour name="magenta$+" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="9"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="red$+" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
+	"/>
+<Contour name="d39sern19" closed="true" border="1.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="-12 4,
+	-12 -4,
+	-4 -4,
+	-4 -12,
+	4 -12,
+	4 -4,
+	12 -4,
+	12 4,
+	4 4,
+	4 12,
+	-4 12,
+	-4 4,
+	"/>
+<Contour name="cyan$+" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="9"
+ points="0 12,
+	4 8,
+	-12 -8,
+	-8 -12,
+	8 4,
+	12 0,
+	12 12,
+	"/>
+<ZContour name="d28zlen01" closed="false" border="0.000 1.000 0.000" fill="1.000 0.500 0.000" mode="11"
+ points="7.86542 23.2588 192,
+	7.50166 23.4426 157,
+	6.98857 23.5766 117,
+	6.58269 23.8217 64,
+	6.4793 24.2505 2,
+	"/>
+<ZContour name="d28zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="11"
+ points="6.48313 24.2544 2,
+	6.45633 24.2084 14,
+	6.60183 23.8102 66,
+	6.92347 23.5613 116,
+	7.48251 23.4503 157,
+	7.86542 23.2588 192,
+	"/>
+<ZContour name="d38zlen01" closed="false" border="0.000 1.000 0.000" fill="1.000 0.500 0.000" mode="11"
+ points="22.0351 23.5422 182,
+	22.5187 23.3183 91,
+	22.7217 22.9272 69,
+	23.0591 22.6078 62,
+	23.1278 22.3062 21,
+	"/>
+<ZContour name="d38zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="11"
+ points="23.1278 22.3032 21,
+	23.0412 22.6197 63,
+	22.7665 22.9362 69,
+	22.4142 23.2974 108,
+	22.0381 23.5392 182,
+	"/>
+<ZContour name="d39zlen01" closed="false" border="0.000 1.000 0.000" fill="1.000 0.500 0.000" mode="11"
+ points="10.588 28.3027 197,
+	10.7547 27.9442 150,
+	10.9549 28.3069 121,
+	11.4926 28.3986 65,
+	12.0555 28.6071 32,
+	12.5015 28.8864 7,
+	"/>
+<ZContour name="d39zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="11"
+ points="12.5015 28.8864 7,
+	12.4098 28.9281 19,
+	12.0596 28.6237 32,
+	11.6094 28.4612 58,
+	10.9382 28.3027 123,
+	10.7631 27.8692 184,
+	10.5922 28.3027 197,
+	"/>
+<ZContour name="d39zlen03" closed="false" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="11"
+ points="10.5922 28.3111 197,
+	10.8631 28.1151 143,
+	11.0799 28.432 96,
+	11.6219 28.4612 53,
+	12.0596 28.7071 31,
+	12.5015 28.8906 7,
+	"/>
+<ZContour name="d39zlen04" closed="false" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="12.5015 28.8822 7,
+	12.0388 28.6988 31,
+	11.5385 28.4445 58,
+	10.9465 28.2861 123,
+	10.7714 27.865 184,
+	10.588 28.3027 197,
+	"/>
+<ZContour name="d56zlen01" closed="false" border="0.000 1.000 0.000" fill="1.000 0.500 0.000" mode="11"
+ points="24.0655 23.3585 188,
+	23.8669 23.4169 79,
+	24.1684 23.1645 18,
+	"/>
+<ZContour name="d56zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="11"
+ points="24.1684 23.1645 18,
+	24.2245 22.9262 54,
+	24.0679 23.3585 188,
+	"/>
+<ZContour name="d63zlen01" closed="false" border="0.000 1.000 0.000" fill="1.000 0.500 0.000" mode="11"
+ points="20.0939 26.7391 196,
+	19.885 26.8422 137,
+	20.2459 27.0349 67,
+	20.5877 26.8341 49,
+	20.9866 26.693 3,
+	"/>
+<ZContour name="d63zlen02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="11"
+ points="20.9893 26.6957 3,
+	20.9296 26.7255 14,
+	20.4141 26.929 65,
+	19.9989 27.0186 115,
+	20.0939 26.7418 196,
+	"/>
+<ZContour name="d56z_len01" closed="false" border="0.500 0.000 1.000" fill="0.500 0.000 1.000" mode="13"
+ points="23.921 23.2712 200,
+	23.9305 23.2585 69,
+	24.2489 22.9783 32,
+	"/>
+<ZContour name="d56z_len02" closed="false" border="0.500 0.000 1.000" fill="0.500 0.000 1.000" mode="13"
+ points="24.1757 23.0038 32,
+	24.1757 23.0038 67,
+	23.7682 23.4113 102,
+	24.1534 23.2872 200,
+	"/>
+</Series>

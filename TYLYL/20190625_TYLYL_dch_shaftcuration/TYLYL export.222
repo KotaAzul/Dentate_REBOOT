@@ -246,7 +246,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d51" hidden="false" closed="true" simplified="true" border="0 0 0" fill="0 0 0" mode="11"
+<Contour name="d51" hidden="false" closed="true" simplified="true" border="1 1 0" fill="1 1 0" mode="11"
  points="8.78019 22.7225,
 	8.76042 22.7213,
 	8.75053 22.7151,

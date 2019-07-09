@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.043" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.002092" contrast="1.14434" brightness="-0.15" red="true" green="true" blue="true"
+ src="001____z0.0.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	13944 0,
+	13944 8150,
+	0 8150,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration horizontal 2" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="15.9202 9.10787,
+	20.5735 9.08129,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration horizontal 3" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="15.9202 9.57319,
+	20.5602 9.54661,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration horizontal 4" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="15.9202 10.0252,
+	20.5735 9.99863,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration horizontal 5" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="15.9335 10.5039,
+	20.5735 10.464,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration vertical 1" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="22.9104 9.53347,
+	22.8573 4.91121,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration vertical 2" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="23.3673 9.53347,
+	23.3142 4.90058,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration vertical 3" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="23.803 4.90058,
+	23.8455 9.53347,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration vertical 4" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="24.2918 9.53347,
+	24.2492 4.90058,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration vertical 5" hidden="false" closed="false" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
+ points="25.2268 9.52284,
+	25.195 4.90058,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibration horizontal 1" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="15.8895 7.71131,
+	20.5496 7.68432,
+	"/>
+</Transform>
+
+</Section>

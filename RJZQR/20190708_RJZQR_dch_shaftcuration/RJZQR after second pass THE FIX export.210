@@ -2328,7 +2328,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d08 copy" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d08 copy" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="7.43613 6.86929,
 	7.42042 6.86528,
 	7.41256 6.86295,
@@ -2409,7 +2409,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d08 copy" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d08 copy" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="7.88674 6.1376,
 	7.87834 6.13266,
 	7.87415 6.12989,
@@ -3790,7 +3790,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d04" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d04" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="18.1169 8.04401,
 	18.0563 8.03831,
 	18.0096 8.00291,
@@ -3871,7 +3871,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d04 copy" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="d04 copy" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="18.1169 8.04401,
 	18.0563 8.03831,
 	18.0096 8.00291,
